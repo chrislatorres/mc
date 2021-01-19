@@ -1,0 +1,7 @@
+{
+  "name": "mc",
+  "description": "the mc XRPackage",
+  "xr_type": "webxr-site@0.0.1",
+  "start_url": "mc.glb",
+  "physics_url": "mc.bin"
+}
